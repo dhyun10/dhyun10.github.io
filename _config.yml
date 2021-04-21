@@ -17,7 +17,7 @@ timezone: Asia/Seoul
 # --------------------------
 title: Dahyun's DEVLOG                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: developer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -64,7 +64,7 @@ google_analytics:
 #
 # Available options:
 #
-#     light  - Use the light color scheme
+#       - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
 theme_mode:   # [light|dark]
