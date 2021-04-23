@@ -1,5 +1,5 @@
 ---
-title: [JavaScript] IIFE (즉시 실행 함수)
+title: "[JavaScript] IIFE (즉시 실행 함수)"
 date: 2021-04-23 10:00:00 +0900
 categories: [Programming, JavaScript]
 tags: [JavaScript]
