@@ -23,10 +23,7 @@ layout: default
         <div>
           <!-- lastmod -->
           {% if page.last_modified_at %}
-          <span>
-            {% include timeago.html date=page.last_modified_at
-              class="lastmod" prefix="Updated" tooltip=true %}
-          </span>
+          
           {% endif %}
 
           <!-- read time -->

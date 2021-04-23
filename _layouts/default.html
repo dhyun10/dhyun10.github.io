@@ -7,11 +7,11 @@ layout: compress
 
 {% capture prefer_mode %}
   {% if site.theme_mode %}
-    mode="{{ site.theme_mode }}"
+      mode="dark"
   {% endif %}
 {% endcapture %}
 
-<html lang="{{ site.lang | default: "en-US" }}" {{ prefer_mode }}>
+<html lang="{{ site.lang | default: "en-US" }}" mode="dark">
 
   {% include head.html %}
 
