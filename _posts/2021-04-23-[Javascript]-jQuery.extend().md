@@ -58,5 +58,5 @@ console.log(objB);
 
 #### 결과화면
 
-![image-20210424003830390](C:\Users\Owner\AppData\Roaming\Typora\typora-user-images\image-20210424003830390.png)
+![zz](https://user-images.githubusercontent.com/70506979/115897622-9282e180-a497-11eb-8082-be5c004bfe23.PNG)
 
