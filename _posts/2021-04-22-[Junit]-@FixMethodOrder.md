@@ -1,5 +1,5 @@
 ---
-title: Junit/@FixMethodOrder
+title: "[Junit] @FixMethodOrder"
 date: 2021-04-22 10:00:00 +0900
 categories: [Programming, JAVA]
 tags: [JAVA, Junit]  
@@ -7,7 +7,7 @@ tags: [JAVA, Junit]
 
 ## **@FixMethodOrder**(Option) 
 
-***
+- Test 메소드 실행 순서의 기준을 지정하는 Annotation
 
 ### MethodSorters Option
 
