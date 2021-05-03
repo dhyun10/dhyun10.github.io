@@ -1,8 +1,8 @@
 ---
 title: "[Spring] Entity와 DTO"
 date: 2021-05-03 10:00:00 +0900
-categories: [Programming, Springbot]
-tags: [Spring, Springboot]
+categories: [Programming, Spring]
+tags: [Spring, SpringBoot]
 ---
 
 ## Entity와 DTO
