@@ -183,7 +183,7 @@ tags: [JavaScript, JQuery]
 
 
 
-### Array.prototype.inshift() / Array.prototype.push()
+### Array.prototype.unshift() / Array.prototype.push()
 
 - unshift() : 새로운 요소를 배열의 맨 앞쪽에 추가하고, 새로운 길이를 반환합니다.
 
