@@ -161,6 +161,11 @@ exclude:
   - package.json
   - package-lock.json
 
+plugins:
+ - jekyll-sitemap
+ - jekyll-feed
+ - jekyll-paginate
+
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
@@ -169,5 +174,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-include-cache', 'jekyll-gist']
