@@ -4,7 +4,6 @@ permalink: robots.txt
 ---
 
 User-agent: *
+Allow: /
 
-Disallow: /norobots/
-
-Sitemap: {{ '/sitemap.xml' | absolute_url }}
+Sitemap: https://dhyun10.github.io/sitemap.xml
