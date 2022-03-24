@@ -2,7 +2,7 @@
   The paginator for post list on HomgPage.
 -->
 
-<ul class="pagination mt-4 mb-0 pl-lg-2">
+<ul class="pagination align-items-center mt-4 mb-0 pl-lg-2">
   <!-- left arrow -->
   {% if paginator.previous_page %}
     {% assign prev_url = paginator.previous_page_path | relative_url %}
@@ -64,6 +64,12 @@
     {% endif %}
 
   {% endfor %}
+
+  <!-- mobile pagination -->
+  <li class="page-index align-middle">
+    <span>{{ paginator.page }}</span>
+    <span class="text-muted">/ {{ paginator.total_pages }}</span>
+  </li>
 
   <!-- right arrow -->
   {% if paginator.next_page_path %}
