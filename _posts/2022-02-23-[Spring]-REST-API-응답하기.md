@@ -20,8 +20,9 @@ tags: [Spring]
   - 모든 자원에 고유한 ID가 존재하고, 이 자원은 Server에 존재한다.
 - 행위 (Verb) - Http Method
   - 기본 Method
+  
   |Method|의미|역할|
-  |------|---|---|
+  |---|---|---|
   |POST|Create|POST를 통해 해당 URI를 요청하면 리소스를 생성한다.|
   |GET|Select|GET를 통해 해당 리소스를 조회한다. 리소스를 조회하고 해당 도큐먼트에 대한 자세한 정보를 가져온다.|
   |PUT|Update|PUT를 통해 해당 리소스를 수정한다.|
